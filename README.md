@@ -38,3 +38,8 @@ Enable smart decisions based on data; **what should we do**
 ![](images/2022-03-10-18-52-59.png)
 
 ![](images/2022-03-10-18-53-38.png)
+![](images/2022-03-10-18-58-47.png)
+
+
+## Important
+![](images/2022-03-10-18-59-56.png)
